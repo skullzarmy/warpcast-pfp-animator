@@ -2,8 +2,6 @@
 
 ![GitHub](https://img.shields.io/github/license/skullzarmy/warpcast-pfp-animator?style=for-the-badge)
 
-[🚀 Download the latest release on Chrome Web Store 🚀](https://chrome.google.com/webstore/detail/dungeons-status/mhanemmhefbbdgoliknpiomibaglkdni/)
-
 ---
 
 A Manifest V3 Chrome Extension which automatically changes the `img` elements' `src` attributes on `warpcast.com` to animate profile pictures (PFPs). The extension observes changes in the DOM to ensure newly added images are also updated accordingly, enhancing the user experience by ensuring profile pictures (PFPs) are consistently animated.
