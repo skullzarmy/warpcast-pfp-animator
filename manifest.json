@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Warpcast PFP Animator",
-    "version": "1.0.1",
+    "version": "1.0.3",
     "description": "Automatically replace img src properties on warpcast.com to animate profile pictures.",
     "permissions": [],
     "host_permissions": ["https://warpcast.com/*"],
@@ -16,5 +16,11 @@
             "matches": ["https://warpcast.com/*"],
             "js": ["content.js"]
         }
-    ]
+    ],
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "warpcast-pfp-animator@example.com",
+            "strict_min_version": "91.0"
+        }
+    }
 }
