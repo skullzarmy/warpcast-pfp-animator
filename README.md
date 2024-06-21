@@ -2,7 +2,7 @@
 
 ![GitHub](https://img.shields.io/github/license/skullzarmy/warpcast-pfp-animator?style=for-the-badge)
 
-[🚀 Download the latest release on Chrome Web Store 🚀](https://chrome.google.com/webstore/detail/dungeons-status/mhanemmhefbbdgoliknpiomibaglkdni/)
+[🚀 Download the latest release on Chrome Web Store 🚀](https://chromewebstore.google.com/detail/warpcast-pfp-animator/eilfjfdnbmelflpkhdjalblenjfhloip)
 
 ---
 
@@ -12,7 +12,7 @@ A Manifest V3 Chrome Extension which automatically changes the `img` elements' `
 
 -   `host_permissions`: To interact with `https://warpcast.com/*`.
 
-## Installation
+## Manual Installation
 
 0.  Clone this repo to your local machine
 
