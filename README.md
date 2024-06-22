@@ -1,4 +1,4 @@
-# ![Chrome Extension Logo](icons/icon48.png) Warpcast PFP Animator: Chrome Extension
+# ![Chrome Extension Logo](icons/icon48.png) Warpcast PFP Animator: Browser Extension
 
 ![GitHub](https://img.shields.io/github/license/skullzarmy/warpcast-pfp-animator?style=for-the-badge)
 
