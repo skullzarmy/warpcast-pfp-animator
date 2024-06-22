@@ -8,7 +8,7 @@
 >
 > [![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/rating/eilfjfdnbmelflpkhdjalblenjfhloip)](https://chromewebstore.google.com/detail/warpcast-pfp-animator/eilfjfdnbmelflpkhdjalblenjfhloip)
 
-## [🚀 Mozilla Add-on Coming Soon 🚀](https://addons.mozilla.org/en-US/firefox/addon/warpcast-pfp-animator/) [![Mozilla Add-on Version](https://img.shields.io/amo/v/warpcast-pfp-animator)](https://addons.mozilla.org/en-US/firefox/addon/warpcast-pfp-animator/)
+## [🚀 Download the latest release on Mozilla 🚀](https://addons.mozilla.org/en-US/firefox/addon/warpcast-pfp-animator/) [![Mozilla Add-on Version](https://img.shields.io/amo/v/warpcast-pfp-animator)](https://addons.mozilla.org/en-US/firefox/addon/warpcast-pfp-animator/)
 
 > Please rate!
 >
