@@ -2,11 +2,21 @@
 
 ![GitHub](https://img.shields.io/github/license/skullzarmy/warpcast-pfp-animator?style=for-the-badge)
 
-[🚀 Download the latest release on Chrome Web Store 🚀](https://chromewebstore.google.com/detail/warpcast-pfp-animator/eilfjfdnbmelflpkhdjalblenjfhloip)
+## [🚀 Download the latest release on Chrome Web Store 🚀](https://chromewebstore.google.com/detail/warpcast-pfp-animator/eilfjfdnbmelflpkhdjalblenjfhloip) [![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/eilfjfdnbmelflpkhdjalblenjfhloip?style=flat-square)](https://chromewebstore.google.com/detail/warpcast-pfp-animator/eilfjfdnbmelflpkhdjalblenjfhloip)
+
+> Please rate!
+>
+> [![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/rating/eilfjfdnbmelflpkhdjalblenjfhloip)](https://chromewebstore.google.com/detail/warpcast-pfp-animator/eilfjfdnbmelflpkhdjalblenjfhloip)
+
+## [🚀 Mozilla Add-on Coming Soon 🚀](https://addons.mozilla.org/en-US/firefox/addon/warpcast-pfp-animator/) [![Mozilla Add-on Version](https://img.shields.io/amo/v/warpcast-pfp-animator)](https://addons.mozilla.org/en-US/firefox/addon/warpcast-pfp-animator/)
+
+> Please rate!
+>
+> [![Mozilla Add-on Rating](https://img.shields.io/amo/rating/warpcast-pfp-animator)](https://addons.mozilla.org/en-US/firefox/addon/warpcast-pfp-animator/)
 
 ---
 
-A Manifest V3 Chrome Extension which automatically changes the `img` elements' `src` attributes on `warpcast.com` to animate profile pictures (PFPs). The extension observes changes in the DOM to ensure newly added images are also updated accordingly, enhancing the user experience by ensuring profile pictures (PFPs) are consistently animated.
+A Manifest V3 Chrome (and soon Mozilla) Extension which automatically changes the `img` elements' `src` attributes on `warpcast.com` to animate profile pictures (PFPs). The extension observes changes in the DOM to ensure newly added images are also updated accordingly, enhancing the user experience by ensuring profile pictures (PFPs) are consistently animated.
 
 ### Required Permissions:
 
