@@ -6,17 +6,12 @@ function replaceImgSrc(checked) {
     }
 
     for (let i = 0; i < images.length; i++) {
-        const url = new URL(images[i].src);
-        const params = url.searchParams;
+        let src = images[i].src;
 
-        // Check for 'anim' parameter and modify it based on 'checked'
-        if (params.has("anim")) {
-            if (checked) {
-                params.set("anim", "true");
-            } else {
-                params.set("anim", "false");
-            }
-            images[i].src = url.toString();
+        // Directly search and replace 'anim=true' or 'anim=false' with the desired value
+        if (src.includes("anim=true") || src.includes("anim=false")) {
+            const newSrc = src.replace(/anim=(true|false)/, `anim=${checked ? "true" : "false"}`);
+            images[i].src = newSrc;
         }
     }
     console.log("PFPs animated! 🚀");
